@@ -255,6 +255,7 @@ app_license = "mit"
 
 
 
+
 doctype_js = {
     "PDF Upload": "public/js/pdf_upload.js"
 }
